@@ -13,7 +13,6 @@ config.json
 
 **/*.venv*
 **/.cache
-**/.env
 **/env_file
 **/.gitkeep*
 **/*.csv
